@@ -58,9 +58,9 @@
 [Drop it (to surface)](https://andreasaust.gumroad.com/l/drop_it)  
 
 
-# Video tutorials:
+# Video tutorials:  
 
-## Learn how to create game assets: 
+## Learn how to create game assets:  
 
 [Introduction](https://youtu.be/KFEb51rinwI)  
 [1. (Part 1/5) Modeling In Blender](https://youtu.be/_Iu88tZ9utE)  
