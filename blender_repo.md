@@ -56,3 +56,15 @@
 [Substance 3D](https://substance3d.adobe.com/plugins/substance-in-blender/)  
 [Tidy Monkey](https://spark88.gumroad.com/l/CpQAM)  
 [Drop it (to surface)](https://andreasaust.gumroad.com/l/drop_it)  
+
+
+#Video tutorials:
+
+##Learn how to create game assets: 
+[Introduction](https://youtu.be/KFEb51rinwI)
+[1. (Part 1/5) Modeling In Blender](https://youtu.be/_Iu88tZ9utE)
+[2. (Part 2/5) UV Unwrapping In Blender](https://youtu.be/-uYwkBCPpiQ)
+[3. (Part 3/5) Texturing In Blender & GIMP](https://youtu.be/SOds_RGOimg)
+[4. (Part 4/5) Exporting from Blender to Unity](https://youtu.be/nhJ8EJ_GtLI)
+[5. (Part 5/5) Creating LOD In Blender & Unity](https://youtu.be/v1xBGuxTqfI)
+
