@@ -1,4 +1,4 @@
-# Lär er mer om Blender:
+# Learn about Blender:
 
 [https://www.blendswap.com/](https://www.blendswap.com/)  
 [https://www.artstation.com/](https://www.artstation.com/)  
@@ -33,7 +33,7 @@
 [https://www.cgdirector.com/](https://www.cgdirector.com/)  
 
 
-# gratis Add-ons:
+# Free Add-ons:
 
 [Asset Creation Tool](https://mrven.gumroad.com/l/hPXIh)  
 [Blender Kit](https://www.blenderkit.com/)  
