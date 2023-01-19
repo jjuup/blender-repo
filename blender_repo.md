@@ -78,37 +78,37 @@
 
 ##Camera rigs:  
 
-[https://youtu.be/K_LHklpHaZY]  
-[https://youtu.be/COwENnPwWJ8]  
+(https://youtu.be/K_LHklpHaZY)  
+(https://youtu.be/COwENnPwWJ8)  
 
 ##Illumination - lighting:  
-[https://youtu.be/si7UAgvBd4Y]  
-[https://youtu.be/lXvmt0QxAFY]  
-[https://youtu.be/nr1MamBKAec]  
-[https://youtu.be/XohMPGEofJU]  
-[https://youtu.be/VtouDwt-qP4]  
-[https://leomoon.com/store/plugins/leomoon-lightstudio/]  
+(https://youtu.be/si7UAgvBd4Y)  
+(https://youtu.be/lXvmt0QxAFY)  
+(https://youtu.be/nr1MamBKAec)  
+(https://youtu.be/XohMPGEofJU)  
+(https://youtu.be/VtouDwt-qP4)  
+(https://leomoon.com/store/plugins/leomoon-lightstudio/)  
 
 
 ##How to rig a car in Blender:  
 
-[https://youtu.be/jTH6psilIxo]  
+(https://youtu.be/jTH6psilIxo)  
 
 
 #Shading
 
 ##Vertex Shading concepts  
 
-[https://youtu.be/HDWSkCDIu1E]  
-[https://youtu.be/RBq8l7tf7ds]  
+(https://youtu.be/HDWSkCDIu1E)  
+(https://youtu.be/RBq8l7tf7ds)  
 
 #Realism
 
-[https://youtu.be/jAM2HjHvbTk]  
-[https://youtu.be/-GAm-7_3N6g]  
-[https://youtu.be/_34LQI1ZMxI]  
-[https://youtu.be/Ah4SpFTTJVY]  
-[https://youtu.be/hJd5WS6e9Cg]  
+(https://youtu.be/jAM2HjHvbTk)  
+(https://youtu.be/-GAm-7_3N6g)  
+(https://youtu.be/_34LQI1ZMxI)  
+(https://youtu.be/Ah4SpFTTJVY)  
+(https://youtu.be/hJd5WS6e9Cg)   
 
 
 
