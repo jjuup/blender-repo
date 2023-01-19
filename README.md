@@ -62,9 +62,7 @@
 
 ## Learn how to create game assets:  
 
-Introduction  
-[<img src="https://img.youtube.com/vi/KFEb51rinwI/maxresdefault.jpg" width="25%">](https://youtu.be/KFEb51rinwI)  
-
+[Introduction](https://youtu.be/KFEb51rinwI)  
 [1. (Part 1/5) Modeling In Blender](https://youtu.be/_Iu88tZ9utE)  
 [2. (Part 2/5) UV Unwrapping In Blender](https://youtu.be/-uYwkBCPpiQ)  
 [3. (Part 3/5) Texturing In Blender & GIMP](https://youtu.be/SOds_RGOimg)  
@@ -74,6 +72,7 @@ Introduction
 ## Commercial product video production:  
 
 [Shadow catcher and Alpha Over](https://youtu.be/LePo3w53gFo)  
+[Alpha Cutout Object in render Shader trick](https://youtu.be/SGegMBhog7o)  
 [Condensation water droplets for soda cans, beer pints and beverage bottles](https://youtu.be/hCaMkma-CLM)  
 [The importance of motion blur and how to use it](https://youtu.be/EpqcglXvKkM)  
 
@@ -99,18 +98,37 @@ Introduction
 
 # Shading
 
-## Vertex Painting / Shading concepts  
+## Vertex Painting / Vertex Shading concepts  
 
 [Vertex Paint Workflow](https://youtu.be/HDWSkCDIu1E)  
 [Vertex Painting and Lighting](https://youtu.be/RBq8l7tf7ds)  
 
+## Materials  
+
+[Leather Shader in Blender 2.8](https://youtu.be/yrNAtzSWr34)  
+[Metallic Shaders in Blender 2.8](https://youtu.be/4cTZW6Xy7v0)  
+[Brick Material in Blender 2.8](https://youtu.be/N0N6P9Wraxg)  
+[Double sided shader in Blender 2.8](https://youtu.be/1XjVuyueg7w)  
+[Stylized Emission Shader](https://youtu.be/8qKLkDr09Pk)  
+[Hair Shader in Blender](https://youtu.be/BeqGVBfAhso)  
+[Make a Realistic Glass Shader in Eevee](https://youtu.be/KxmzkpY15ck)  
+[Photorealistic Materials using the Principled Shader](https://youtu.be/4H5W6C_Mbck)  
+[Procedural Wood Texture Material Shader](https://youtu.be/CHxelgYdBaI)  
+[]()  
+
+
+
+
 # Realism
 
 [Realistic Human Portrait Creation](https://youtu.be/jAM2HjHvbTk)  
+[Realistic Skin Shader](https://youtu.be/B3TnEMoNIr4)  
 [Create Realistic Grass in Blender 2.8 in 15 minutes](https://youtu.be/-GAm-7_3N6g)  
 [Photoreal Procedural Clouds in Geo Nodes / Blender 3.4 Tutorial](https://youtu.be/_34LQI1ZMxI)  
 [10 Tips for Making More Photorealistic 3D Renders](https://youtu.be/Ah4SpFTTJVY)  
-[How to Make Realistic Procedual Clouds in Blender](https://youtu.be/hJd5WS6e9Cg)   
+[How to Make Realistic Procedual Clouds in Blender](https://youtu.be/hJd5WS6e9Cg)  
+[Make a Realistic Glass Shader in Eevee](https://youtu.be/KxmzkpY15ck)  
+[Photorealistic Materials using the Principled Shader](https://youtu.be/4H5W6C_Mbck)
 
 # Effects  
 
