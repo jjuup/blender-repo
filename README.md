@@ -78,47 +78,46 @@
 
 ## Camera rigs:  
 
-[](https://youtu.be/K_LHklpHaZY)  
-[](https://youtu.be/COwENnPwWJ8)  
+[Camera Rigs In Blender Are Amazing!](https://youtu.be/K_LHklpHaZY)  
+[Animate Cameras like a Pro](https://youtu.be/COwENnPwWJ8)  
 
 ## Illumination - lighting:  
-[](https://youtu.be/si7UAgvBd4Y)  
-[](https://youtu.be/lXvmt0QxAFY)  
-[](https://youtu.be/nr1MamBKAec)  
-[](https://youtu.be/XohMPGEofJU)  
-[](https://youtu.be/VtouDwt-qP4)  
-[](https://leomoon.com/store/plugins/leomoon-lightstudio/)  
+[Cinematic Lighting in Blender](https://youtu.be/si7UAgvBd4Y)  
+[4 tips for Cinematic Lighting](https://youtu.be/lXvmt0QxAFY)  
+[Eevee Realistic Lighting](https://youtu.be/nr1MamBKAec)  
+[Blender Addons for lighting](https://youtu.be/XohMPGEofJU)  
+[Create Photo-Real Lighting With IES Lamps](https://youtu.be/VtouDwt-qP4)  
 
 
-## How to rig a car in Blender:  
+## Car rigging and vehicle physics:  
 
-[](https://youtu.be/jTH6psilIxo)  
+[How to rig a car in Blender](https://youtu.be/jTH6psilIxo)  
+[Drifting](https://youtu.be/6OECsNMVNpQ)  
 
 
 # Shading
 
-## Vertex Shading concepts  
+## Vertex Painting / Shading concepts  
 
-[](https://youtu.be/HDWSkCDIu1E)  
-[](https://youtu.be/RBq8l7tf7ds)  
+[Vertex Paint Workflow](https://youtu.be/HDWSkCDIu1E)  
+[Vertex Painting and Lighting](https://youtu.be/RBq8l7tf7ds)  
 
 # Realism
 
-[](https://youtu.be/jAM2HjHvbTk)  
-[](https://youtu.be/-GAm-7_3N6g)  
-[](https://youtu.be/_34LQI1ZMxI)  
-[](https://youtu.be/Ah4SpFTTJVY)  
-[](https://youtu.be/hJd5WS6e9Cg)   
+[Realistic Human Portrait Creation](https://youtu.be/jAM2HjHvbTk)  
+[Create Realistic Grass in Blender 2.8 in 15 minutes](https://youtu.be/-GAm-7_3N6g)  
+[Photoreal Procedural Clouds in Geo Nodes / Blender 3.4 Tutorial](https://youtu.be/_34LQI1ZMxI)  
+[10 Tips for Making More Photorealistic 3D Renders](https://youtu.be/Ah4SpFTTJVY)  
+[How to Make Realistic Procedual Clouds in Blender](https://youtu.be/hJd5WS6e9Cg)   
 
 # Effects  
 
-[](https://youtu.be/9pIQg_6vY38)  
-[](https://youtu.be/P2KhbYJYu_Y)  
-[](https://youtu.be/2bG4zN4dGvA)  
-[](https://youtu.be/bzwp-ng-f1Y)  
-[](https://youtu.be/u_dL3JqXdp8)  
-[](https://youtu.be/mlCwT5dgEXM)  
-[](https://youtu.be/y_vmZ5EBva8)  
-[](https://youtu.be/ck6fKPZbX48)  
-[](https://youtu.be/YFVsfYCMJGE)  
+[How to make EASY (but realistic) smoke and fire simulation in Blender](https://youtu.be/u_dL3JqXdp8)  
+[Make a Realistic Flamethrower in Blender](https://youtu.be/mlCwT5dgEXM)  
+[Realistic Lightning in Blender 3.0](https://youtu.be/2bG4zN4dGvA)  
+[How to Create Realistic Snow](https://youtu.be/ck6fKPZbX48)  
+[Realtime Explosions](https://youtu.be/P2KhbYJYu_Y)  
+[Real time sword trail in Blender](https://youtu.be/bzwp-ng-f1Y)  
+[Realtime flames VFX tutorial in Blender](https://youtu.be/y_vmZ5EBva8)  
+[Real-Time Dynamic Snow Effects](https://youtu.be/YFVsfYCMJGE)  
 
