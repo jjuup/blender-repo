@@ -110,5 +110,15 @@
 (https://youtu.be/Ah4SpFTTJVY)  
 (https://youtu.be/hJd5WS6e9Cg)   
 
+# Effects  
 
+(https://youtu.be/9pIQg_6vY38)  
+(https://youtu.be/P2KhbYJYu_Y)  
+(https://youtu.be/2bG4zN4dGvA)  
+(https://youtu.be/bzwp-ng-f1Y)  
+(https://youtu.be/u_dL3JqXdp8)  
+(https://youtu.be/mlCwT5dgEXM)  
+(https://youtu.be/y_vmZ5EBva8)  
+(https://youtu.be/ck6fKPZbX48)  
+(https://youtu.be/YFVsfYCMJGE)  
 
