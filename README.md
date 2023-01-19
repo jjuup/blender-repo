@@ -1,5 +1,6 @@
-# Learn about Blender:
+# Blender Repo:
 
+## Websites about Blender  
 [https://www.blendswap.com/](https://www.blendswap.com/)  
 [https://www.artstation.com/](https://www.artstation.com/)  
 [https://kitbash3d.com/](https://kitbash3d.com/)    
@@ -33,7 +34,7 @@
 [https://www.cgdirector.com/](https://www.cgdirector.com/)  
 
 
-# Free Add-ons:
+# Free Blender Add-ons:
 
 [Asset Creation Tool](https://mrven.gumroad.com/l/hPXIh)  
 [Blender Kit](https://www.blenderkit.com/)  
