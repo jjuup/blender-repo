@@ -76,12 +76,12 @@
 [The importance of motion blur and how to use it](https://youtu.be/EpqcglXvKkM)  
 
 
-##Camera rigs:  
+## Camera rigs:  
 
 (https://youtu.be/K_LHklpHaZY)  
 (https://youtu.be/COwENnPwWJ8)  
 
-##Illumination - lighting:  
+## Illumination - lighting:  
 (https://youtu.be/si7UAgvBd4Y)  
 (https://youtu.be/lXvmt0QxAFY)  
 (https://youtu.be/nr1MamBKAec)  
@@ -90,19 +90,19 @@
 (https://leomoon.com/store/plugins/leomoon-lightstudio/)  
 
 
-##How to rig a car in Blender:  
+## How to rig a car in Blender:  
 
 (https://youtu.be/jTH6psilIxo)  
 
 
-#Shading
+# Shading
 
-##Vertex Shading concepts  
+## Vertex Shading concepts  
 
 (https://youtu.be/HDWSkCDIu1E)  
 (https://youtu.be/RBq8l7tf7ds)  
 
-#Realism
+# Realism
 
 (https://youtu.be/jAM2HjHvbTk)  
 (https://youtu.be/-GAm-7_3N6g)  
