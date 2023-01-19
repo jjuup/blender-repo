@@ -62,8 +62,8 @@
 
 ## Learn how to create game assets:  
 
-[Introduction]
-[<img src="https://img.youtube.com/vi/KFEb51rinwI/maxresdefault.jpg" width="50%">](https://youtu.be/KFEb51rinwI)  
+Introduction
+[<img src="https://img.youtube.com/vi/KFEb51rinwI/maxresdefault.jpg" width="25%" target="_blank">](https://youtu.be/KFEb51rinwI)  
 
 [1. (Part 1/5) Modeling In Blender](https://youtu.be/_Iu88tZ9utE)  
 [2. (Part 2/5) UV Unwrapping In Blender](https://youtu.be/-uYwkBCPpiQ)  
