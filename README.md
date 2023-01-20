@@ -115,19 +115,29 @@
 [Make a Realistic Glass Shader in Eevee](https://youtu.be/KxmzkpY15ck)  
 [Photorealistic Materials using the Principled Shader](https://youtu.be/4H5W6C_Mbck)  
 [Procedural Wood Texture Material Shader](https://youtu.be/CHxelgYdBaI)  
-[]()  
-
-
-
+[Cloth Simulation For Beginners](https://youtu.be/_hNFZ0v__no)  
+[Create a Realistic Jacket using Cloth Simulation Brushes](https://youtu.be/W-N8o5ew-4s)  
 
 # Realism
 
+## Realistic Human and Humanoids
 [Realistic Human Portrait Creation](https://youtu.be/jAM2HjHvbTk)  
+[Realistic Head Sculpting](https://youtu.be/pclB05e0oOA)  
 [Realistic Skin Shader](https://youtu.be/B3TnEMoNIr4)  
+[Realistic Eyes](https://youtu.be/EfNzAaqKHXQ)
+[Realistic Eyelashes](https://youtu.be/-jw0HlvX--E)  
+[Realistic Eyebrows](https://youtu.be/JfIWLehAJvo)  
+[Create Realistic Teeth And Gums - Sculpt](https://youtu.be/j5O_FSjfV2w)  
+[Create Realistic Teeth And Gums - Shader](https://youtu.be/IquQILcBc_4)  
+[Hair Shader in Blender](https://youtu.be/BeqGVBfAhso)  
+[Create Hair, Clean and Simple](https://youtu.be/_xRSoLtfTDs)  
+[The Ultimate Guide to Hair in Blender 3.3](https://youtu.be/akwzLF9SArI)  
+
+
+## Realistic Enviroments  
+
 [Create Realistic Grass in Blender 2.8 in 15 minutes](https://youtu.be/-GAm-7_3N6g)  
-[Photoreal Procedural Clouds in Geo Nodes / Blender 3.4 Tutorial](https://youtu.be/_34LQI1ZMxI)  
 [10 Tips for Making More Photorealistic 3D Renders](https://youtu.be/Ah4SpFTTJVY)  
-[How to Make Realistic Procedual Clouds in Blender](https://youtu.be/hJd5WS6e9Cg)  
 [Make a Realistic Glass Shader in Eevee](https://youtu.be/KxmzkpY15ck)  
 [Photorealistic Materials using the Principled Shader](https://youtu.be/4H5W6C_Mbck)
 
@@ -137,6 +147,8 @@
 [Make a Realistic Flamethrower in Blender](https://youtu.be/mlCwT5dgEXM)  
 [Realistic Lightning in Blender 3.0](https://youtu.be/2bG4zN4dGvA)  
 [Make it Rain](https://youtu.be/x0If5d2tq2s)  
+[Photoreal Procedural Clouds in Geo Nodes / Blender 3.4 Tutorial](https://youtu.be/_34LQI1ZMxI)  
+[How to Make Realistic Procedual Clouds in Blender](https://youtu.be/hJd5WS6e9Cg)  
 [How to create Fog using Volumetrics](https://youtu.be/4NrOXReR3Dk)
 [How to create animated Fog using Volumetrics](https://youtu.be/UWFD_pRm6rA)
 [How to create Fog using Mist Pass](https://youtu.be/D6a6eA1hE8s)
