@@ -133,6 +133,8 @@
 [Create Hair, Clean and Simple](https://youtu.be/_xRSoLtfTDs)  
 [The Ultimate Guide to Hair in Blender 3.3](https://youtu.be/akwzLF9SArI)  
 
+[Human Generator V3 ($$)](https://youtu.be/unObkikFkBg)  
+
 
 ## Realistic Enviroments  
 
