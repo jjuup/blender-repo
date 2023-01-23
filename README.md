@@ -34,7 +34,7 @@
 [https://www.cgdirector.com/](https://www.cgdirector.com/)  
 
 
-# Free Blender Add-ons:
+# Free Blender Add-ons
 
 [Asset Creation Tool](https://mrven.gumroad.com/l/hPXIh)  
 [Blender Kit](https://www.blenderkit.com/)  
@@ -59,9 +59,9 @@
 [Drop it (to surface)](https://andreasaust.gumroad.com/l/drop_it)  
 
 
-# Video tutorials:  
+# Video tutorials  
 
-## Learn how to create game assets:  
+## Learn how to create game assets  
 
 [Introduction](https://youtu.be/KFEb51rinwI)  
 [1. (Part 1/5) Modeling In Blender](https://youtu.be/_Iu88tZ9utE)  
@@ -70,7 +70,7 @@
 [4. (Part 4/5) Exporting from Blender to Unity](https://youtu.be/nhJ8EJ_GtLI)  
 [5. (Part 5/5) Creating LOD In Blender & Unity](https://youtu.be/v1xBGuxTqfI)  
 
-## Commercial product video production:  
+## Commercial product video production  
 
 [Shadow catcher and Alpha Over](https://youtu.be/LePo3w53gFo)  
 [Alpha Cutout Object in render Shader trick](https://youtu.be/SGegMBhog7o)  
@@ -78,12 +78,12 @@
 [The importance of motion blur and how to use it](https://youtu.be/EpqcglXvKkM)  
 
 
-## Camera rigs:  
+## Camera rigs  
 
 [Camera Rigs In Blender Are Amazing!](https://youtu.be/K_LHklpHaZY)  
 [Animate Cameras like a Pro](https://youtu.be/COwENnPwWJ8)  
 
-## Illumination - lighting:  
+## Illumination - lighting  
 [Cinematic Lighting in Blender](https://youtu.be/si7UAgvBd4Y)  
 [4 tips for Cinematic Lighting](https://youtu.be/lXvmt0QxAFY)  
 [Eevee Realistic Lighting](https://youtu.be/nr1MamBKAec)  
@@ -91,7 +91,7 @@
 [Create Photo-Real Lighting With IES Lamps](https://youtu.be/VtouDwt-qP4)  
 
 
-## Car rigging and vehicle physics:  
+## Car rigging and vehicle physics  
 
 [How to rig a car in Blender](https://youtu.be/jTH6psilIxo)  
 [Drifting](https://youtu.be/6OECsNMVNpQ)  
