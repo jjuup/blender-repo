@@ -95,6 +95,7 @@
 
 [How to rig a car in Blender](https://youtu.be/jTH6psilIxo)  
 [Drifting](https://youtu.be/6OECsNMVNpQ)  
+[Realistic car animation tutorial, Beginner level](https://youtu.be/y_cVQo5qA_A)  
 
 
 # Shading
