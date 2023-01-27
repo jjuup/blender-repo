@@ -86,9 +86,11 @@
 ## Illumination - lighting  
 [Cinematic Lighting in Blender](https://youtu.be/si7UAgvBd4Y)  
 [4 tips for Cinematic Lighting](https://youtu.be/lXvmt0QxAFY)  
-[Eevee Realistic Lighting](https://youtu.be/nr1MamBKAec)  
 [Blender Addons for lighting](https://youtu.be/XohMPGEofJU)  
 [Create Photo-Real Lighting With IES Lamps](https://youtu.be/VtouDwt-qP4)  
+
+[Eevee Realistic Lighting](https://youtu.be/nr1MamBKAec)  
+[Better Eevee Renders using Light Probes](https://youtu.be/0bAVlUxc24A)  
 
 
 ## Car rigging and vehicle physics  
