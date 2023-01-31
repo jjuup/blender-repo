@@ -1,7 +1,7 @@
 # Blender Repo:
 
 ## Websites about Blender  
-[Check Out The New Blend Stream!](https://blend.stream/)  
+[Check Out The New Blend Stream at https://blend.stream/](https://blend.stream/)  
 [https://www.blendswap.com/](https://www.blendswap.com/)  
 [https://www.artstation.com/](https://www.artstation.com/)  
 [https://kitbash3d.com/](https://kitbash3d.com/)    
