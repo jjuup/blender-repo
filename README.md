@@ -58,6 +58,7 @@
 [Substance 3D](https://substance3d.adobe.com/plugins/substance-in-blender/)  
 [Tidy Monkey](https://spark88.gumroad.com/l/CpQAM)  
 [Drop it (to surface)](https://andreasaust.gumroad.com/l/drop_it)  
+[BakeLab 2](https://github.com/specoolar/Blender-BakeLab2)  
 
 
 # Video tutorials  
