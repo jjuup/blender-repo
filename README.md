@@ -123,6 +123,9 @@
 [Cloth Simulation For Beginners](https://youtu.be/_hNFZ0v__no)  
 [Create a Realistic Jacket using Cloth Simulation Brushes](https://youtu.be/W-N8o5ew-4s)  
 
+# Pixelart
+[Pixel Art rendering addon](https://lucasroedel.gumroad.com/l/pixel_art)
+
 # Realism
 
 ## Realistic Human and Humanoids
